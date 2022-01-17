@@ -21,3 +21,6 @@ doc/build/*
 *~*
 
 .venv/
+
+# VS Code
+.history/
